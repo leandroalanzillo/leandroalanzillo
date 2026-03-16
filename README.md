@@ -13,6 +13,7 @@ Também possuo certificações do mercado financeiro (CEA, CPA-20 e ANCORD) e co
 Aqui no GitHub compartilho projetos, estudos e experimentos em dados, programação e analytics.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/leandroalanzillo/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrolanzillo.ws@gmail.com)
 
 <p align="left">
     <a href="https://github.com/leandroalanzillo?tab=followers">
