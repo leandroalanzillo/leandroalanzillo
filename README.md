@@ -15,7 +15,7 @@ Aqui no GitHub compartilho projetos, estudos e experimentos em dados, programaç
 🔗 [LinkedIn](https://www.linkedin.com/in/leandroalanzillo/)
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/leandroalanzillo?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
