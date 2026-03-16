@@ -1,4 +1,4 @@
-# 🤖 Leandro Lanzillo
+# 🏄🏽 Leandro Lanzillo
 
 **`Cientista de Dados`**
 
