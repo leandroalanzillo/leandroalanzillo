@@ -1,4 +1,4 @@
-# 👋 Leandro Lanzillo
+# Leandro Lanzillo
 
 ### Data Scientist | Financial Analytics | Python · SQL · Cloud
 
@@ -10,7 +10,7 @@ Minha atuação está na interseção entre **dados, finanças e estratégia** �
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,29 +28,9 @@ Minha atuação está na interseção entre **dados, finanças e estratégia** �
 
 ---
 
-## 📂 O que você encontra aqui
-
-Neste GitHub compartilho projetos práticos e estudos em:
-
-- 📊 **Análise de dados** — exploração, limpeza e visualização de datasets reais
-- 🤖 **Machine Learning** — modelos preditivos e classificação aplicados a finanças
-- 💹 **Financial Analytics** — estudos de mercado, séries temporais e análise de ativos
-- 🔧 **Engenharia de dados** — pipelines, automações e integração com APIs
-
 ---
 
-## 🎓 Formação & Certificações
-
-| Instituição | Título |
-|---|---|
-| FIAP | Graduação em Ciência de Dados *(em andamento)* |
-| ANBIMA | CEA — Especialista em Investimentos |
-| ANBIMA | CPA-20 — Produtos de Investimento |
-| ANCORD | Agente Autônomo de Investimentos |
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p>
   <img height="160" src="https://streak-stats.demolab.com?user=leandroalanzillo&theme=default&hide_border=true&locale=pt_BR"/>
@@ -61,7 +41,7 @@ Neste GitHub compartilho projetos práticos e estudos em:
 
 ---
 
-## 🤝 Contato
+## Contato
 
 <p>
   <a href="https://www.linkedin.com/in/leandroalanzillo/">
