@@ -1,4 +1,4 @@
-# Leandro Lanzillo
+# 👋 Leandro Lanzillo
 
 ### Data Scientist | Financial Analytics | Python · SQL · Cloud
 
@@ -10,7 +10,7 @@ Minha atuação está na interseção entre **dados, finanças e estratégia** �
 
 ---
 
-##  Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,7 +28,18 @@ Minha atuação está na interseção entre **dados, finanças e estratégia** �
 
 ---
 
-## Formação & Certificações
+## 📂 O que você encontra aqui
+
+Neste GitHub compartilho projetos práticos e estudos em:
+
+- 📊 **Análise de dados** — exploração, limpeza e visualização de datasets reais
+- 🤖 **Machine Learning** — modelos preditivos e classificação aplicados a finanças
+- 💹 **Financial Analytics** — estudos de mercado, séries temporais e análise de ativos
+- 🔧 **Engenharia de dados** — pipelines, automações e integração com APIs
+
+---
+
+## 🎓 Formação & Certificações
 
 | Instituição | Título |
 |---|---|
@@ -39,12 +50,14 @@ Minha atuação está na interseção entre **dados, finanças e estratégia** �
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leandroalanzillo&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=leandroalanzillo&theme=default&hide_border=true&locale=pt_BR"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroalanzillo&layout=compact&theme=default&hide_border=true"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=leandroalanzillo&color=0A66C2&style=flat-square&label=Visualizações+do+perfil)
 
 ---
 
